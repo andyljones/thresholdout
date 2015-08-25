@@ -1,3 +1,9 @@
+# This is a copy of Dwork et al's supplemenary code for the paper "The reusable
+# holdout: Preserving validity in adaptive data analysis". It was originally
+# hosted at
+#
+# https://www.sciencemag.org/content/suppl/2015/08/05/349.6248.636.DC1/aaa9375_SupportingFile_Other_seq5_v1.py
+
 # Experiments for Thresholdhout
 # Fast implementation of Thresholdout specific to the experiment.
 # Thresholdout with threshold = 4/sqrt(n), tolerance = 1/sqrt(n)
