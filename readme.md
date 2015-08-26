@@ -2,5 +2,4 @@ This is a copy of Dwork et al's supplementary code for the paper *[The reusable 
 
 I've also written [a short blogpost](http://andyljones.tumblr.com/post/127547085623/holdout-reuse) on the ideas involved.
 
-Disclaimer: I have nothing to do with this Dwork et al or this research. I've hosted it here simply because it gives
-the code syntax highlighting and I can't find a copy anywhere else. 
+Disclaimer: This is in no way my research. I've hosted it here because it provides syntax highlighting and it makes it easy for people to fork.
